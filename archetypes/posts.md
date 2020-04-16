@@ -5,6 +5,6 @@ title = ""
 description = ""
 tags = []
 categories = []
-externalLink = ""
 series = []
+externalLink = ""
 +++
